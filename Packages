@@ -3,8 +3,8 @@ Name: shenzhen solitaire unlimited tokens
 Version: 0.0.1
 Architecture:  iphoneos-arm64
 Description: this tweak break the token limit of shenzhen solitaire. a funny solitaire game. you should relaunch the game twice to make this tweak works.
-Maintainer: ngn999 ngn998@gmail.com
-Author: ngn998@gmail.com
+Maintainer: ngn999 <ngn998@gmail.com>
+Author: ngn999 <ngn998@gmail.com>
 Section: game
 Depends: 
 Filename: debs/com.github.ngn999.unlimited-tokens_0.0.1_iphoneos-arm.deb
